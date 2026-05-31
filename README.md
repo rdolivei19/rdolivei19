@@ -78,3 +78,11 @@ Estágio Programador
 ## 📫 Contato
 
 📧 rdolivei@gmail.com
+
+---
+
+## 🌐 Links
+
+- Site: https://sites.google.com/view/ricardodeoliveira
+- GitHub: https://github.com/rdolivei19
+- LinkedIn: https://www.linkedin.com/in/ricardo-oliveira-405570b6
