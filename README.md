@@ -70,7 +70,6 @@ Estágio Programador
 
 ## 🌎 Idiomas
 
-- Português
 - Inglês Básico
 - Espanhol Básico
 
